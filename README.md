@@ -10,7 +10,11 @@ Quickly search the excellent [Tureng](http://tureng.com) online English-Turkish 
 `tr <query>` The query can be any word or phrase in English or Turkish.
 
 `↩` Pressing return after results render will open Tureng in your browser.
+
+<br />
+Categories are included below the result except when the category is *General*.
 <br /><br /><br />
+
 
 
 ## How to Install ##
