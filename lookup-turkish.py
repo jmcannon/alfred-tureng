@@ -12,7 +12,7 @@ TURKISH_TERM_CLASS = 'tr ts'
 CATEGORY_CLASS = 'hidden-xs'   # Must match exactly
 
 def main(wf):
-    query = wf.args[0].replace(' ', '%20')
+    query = wf.args[0]
     raw_url = BASE_URL + query
     url = urllib.quote(raw_url.encode('utf-8'), safe=":/")
 

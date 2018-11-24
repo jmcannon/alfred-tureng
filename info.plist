@@ -100,7 +100,7 @@
 		</dict>
 	</array>
 	<key>readme</key>
-	<string>Quickly search the excellent Tureng online English-Turkish dictionary. Active with "tr" and type any word or phrase in English or Turkish. After results render, press return to open Tureng in your browser.</string>
+	<string>Quickly search the excellent Tureng online English-Turkish dictionary. Activate with "tr" and type any word or phrase in English or Turkish. After results render, press return to open Tureng in your browser.</string>
 	<key>uidata</key>
 	<dict>
 		<key>0DD8BE00-5CAF-482D-B28F-7EC3E588F179</key>

@@ -12,7 +12,9 @@ Quickly search the excellent [Tureng](http://tureng.com) online English-Turkish 
 `↩` Pressing return after results render will open Tureng in your browser.
 
 <br />
-Categories are included below the result except when the category is *General*.
+
+Categories are included below the result except when Tureng lists the category as *General*.
+
 <br /><br /><br />
 
 
