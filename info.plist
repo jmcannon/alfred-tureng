@@ -35,6 +35,25 @@
 		<dict>
 			<key>config</key>
 			<dict>
+				<key>browser</key>
+				<string></string>
+				<key>spaces</key>
+				<string></string>
+				<key>url</key>
+				<string>http://tureng.com/en/turkish-english/{query}</string>
+				<key>utf8</key>
+				<true/>
+			</dict>
+			<key>type</key>
+			<string>alfred.workflow.action.openurl</string>
+			<key>uid</key>
+			<string>0DD8BE00-5CAF-482D-B28F-7EC3E588F179</string>
+			<key>version</key>
+			<integer>1</integer>
+		</dict>
+		<dict>
+			<key>config</key>
+			<dict>
 				<key>alfredfiltersresults</key>
 				<false/>
 				<key>alfredfiltersresultsmatchmode</key>
@@ -79,28 +98,9 @@
 			<key>version</key>
 			<integer>2</integer>
 		</dict>
-		<dict>
-			<key>config</key>
-			<dict>
-				<key>browser</key>
-				<string></string>
-				<key>spaces</key>
-				<string></string>
-				<key>url</key>
-				<string>http://tureng.com/en/turkish-english/{query}</string>
-				<key>utf8</key>
-				<true/>
-			</dict>
-			<key>type</key>
-			<string>alfred.workflow.action.openurl</string>
-			<key>uid</key>
-			<string>0DD8BE00-5CAF-482D-B28F-7EC3E588F179</string>
-			<key>version</key>
-			<integer>1</integer>
-		</dict>
 	</array>
 	<key>readme</key>
-	<string></string>
+	<string>Quickly search the excellent Tureng online English-Turkish dictionary. Active with "tr" and type any word or phrase in English or Turkish. After results render, press return to open Tureng in your browser.</string>
 	<key>uidata</key>
 	<dict>
 		<key>0DD8BE00-5CAF-482D-B28F-7EC3E588F179</key>
