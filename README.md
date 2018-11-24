@@ -1,6 +1,6 @@
 # Alfred Tureng Workflow
 
-Quickly search the excellent [Tureng](http://tureng.com) online English-Turkish dictionary from Alfred.
+Quickly search the excellent [Tureng](http://tureng.com) English-Turkish dictionary from [Alfred](https://www.alfredapp.com).
 
 
 ![](https://github.com/jmcannon/alfred-tureng/raw/master/screenshot1.png "")
